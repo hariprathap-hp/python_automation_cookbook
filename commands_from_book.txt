@@ -1,0 +1,7 @@
+Displays all the modules installed
+    -> pip freeze > requirements.txt
+
+
+Links:
+    1. https://awesome-python.com/ 
+    2. string formatting : https://docs.python.org/3/library/string.html#formatspec (or) https://pyformat.info —that shows lots of examples
